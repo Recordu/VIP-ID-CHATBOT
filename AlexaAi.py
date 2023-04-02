@@ -41,24 +41,24 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgIAAxkBAAEForNjAykaq_efq4Wd-9KZv-nNxJRn3AACIgMAAm2wQgO8x8PfoXC1eCkE")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
+        photo=f"https://telegra.ph/file/7ae8a7c48d1d802ff99d4.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
+ᴏғ ♻️ Lucifer 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/Give_Me_Heart)
-┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/AsadSupport)
-┣★ ᴀʟᴇxᴀ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/AlexaFed_Logs)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/jankarikiduniya/AlexaAiMachineBot)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/Shayri_Music_Lovers)
+┣★ ᴄʀᴇᴀᴛᴇʀ [Lord Lucifer](https://t.me/Lucifer_Was_Bot)
+┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/@Sensei_Zoro)
+┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Lucifer_Support1)
+┣★ Lucifer ғᴇᴅ [ғᴇᴅ ʟᴏɢs](ᴀʙʜɪ ᴛᴏ ɴᴀʜɪ ʜᴀɪ)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](ʟᴀɴᴅ ʟᴇ ʟᴏ ᴍᴇʀᴀ ʙᴇᴛɪᴄʜᴏᴅ)
+┣★ ɴᴇᴛᴡᴏʀᴋ [Lucifer](https://t.me/Lucifer_Support1)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Lucifer_Was_Bot""",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💮", url=f"https://t.me/Alexa_Help")]]
+            [[InlineKeyboardButton("🌼 Lucifer ᴄʜᴀᴛ 💮", url=f"https://t.me/Lucifer_Support1")]]
         ),
     ) 
 
@@ -67,7 +67,7 @@ IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
     filters.command("alive", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def start(client, message):
-    await message.reply_text(f"**ᴀʟᴇxᴀ ᴀɪ ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ ɪs ᴡᴏʀᴋɪɴɢ**")
+    await message.reply_text(f"**Lucifer ᴀɪ ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ ɪs ᴡᴏʀᴋɪɴɢ**")
     
     
 @client.on_message(
